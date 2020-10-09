@@ -3,3 +3,6 @@ div {
     height: 100px;
     background-color: aqua;
 }
+div:nth-child(1) {
+    background-color: red;
+}
